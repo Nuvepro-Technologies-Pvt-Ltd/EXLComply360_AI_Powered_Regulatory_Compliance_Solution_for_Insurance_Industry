@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+pdf2image
+pytesseract
+spacy
+streamlit
+plotly
+streamlit-cookies-manager

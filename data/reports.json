@@ -1,0 +1,282 @@
+[
+  {
+    "report_id": "eb8c0730-8a69-4e8f-8e84-ab6e41f99967",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T13:52:58.556417",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 6.72,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Medium"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Medium"
+      }
+    ]
+  },
+  {
+    "report_id": "d3225ac4-74aa-4f3b-8fb7-769c106abd26",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T13:58:52.724757",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 11.9,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Low"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Low"
+      }
+    ]
+  },
+  {
+    "report_id": "898a2b90-c798-4ed3-a173-d2fddd6a36bb",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T13:59:47.956390",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 6.01,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "High"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Medium"
+      }
+    ]
+  },
+  {
+    "report_id": "b8310ce3-ce22-4a4f-9635-431a24cfe1f4",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T14:18:43.465160",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 24.02,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "High"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Low"
+      }
+    ]
+  },
+  {
+    "report_id": "3e48b475-e08a-4c6f-8a7b-8b52e364206d",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T14:21:19.529160",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 25.17,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Low"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Low"
+      }
+    ]
+  },
+  {
+    "report_id": "a87aa16a-0a0f-43e7-9825-ec6804cd057e",
+    "filename": "form.pdf (Timed Analysis)",
+    "analysis_date": "2025-11-11T14:25:14.439970",
+    "analysis_type": "auto",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 5.59,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Medium"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Medium"
+      }
+    ]
+  },
+  {
+    "report_id": "21b02b26-b495-412b-9d76-7f3284a42460",
+    "filename": "form.pdf (Timed Analysis)",
+    "analysis_date": "2025-11-11T14:28:25.148727",
+    "analysis_type": "auto",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 5.68,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "High"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Low"
+      }
+    ]
+  },
+  {
+    "report_id": "a8fa74ee-0e83-46d8-9ad1-42c29a5af00e",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T14:28:54.747258",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 14.42,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Low"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Low"
+      }
+    ]
+  },
+  {
+    "report_id": "c865adbb-d424-4026-9a4c-3c3d68913728",
+    "filename": "form.pdf",
+    "analysis_date": "2025-11-11T15:11:53.217718",
+    "analysis_type": "manual",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 6.75,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Low"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Medium"
+      }
+    ]
+  },
+  {
+    "report_id": "dd74f2f0-5928-4c8e-9962-47e924eb0069",
+    "filename": "form.pdf (Timed Analysis)",
+    "analysis_date": "2025-11-11T15:12:15.071683",
+    "analysis_type": "auto",
+    "total_rules": 2,
+    "matched_rules_count": 0,
+    "missing_rules_count": 2,
+    "compliance_score": 20.86,
+    "missing_rules": [
+      {
+        "section": "Benefit Description",
+        "keywords": [
+          "No clear explanation of exclusions or limitations (e.g., suicide clause, war exclusions)"
+        ],
+        "requirement": "Must disclose all exclusions prominently",
+        "risk_level": "Low"
+      },
+      {
+        "section": "Renewability & Conversion",
+        "keywords": [
+          "Missing language on renewability or conversion options"
+        ],
+        "requirement": "Required for term life policies under NAIC guidelines",
+        "risk_level": "Medium"
+      }
+    ]
+  }
+]

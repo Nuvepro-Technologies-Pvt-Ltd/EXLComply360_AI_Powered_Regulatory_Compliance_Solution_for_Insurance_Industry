@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Data Privacy Regulation 2025",
+    "summary": "All customer data must be encrypted and securely stored.",
+    "keywords": ["encryption", "data protection", "secure storage", "encrypted", "securely stored"],
+    "risk_level": "High"
+  },
+  {
+    "id": 2,
+    "title": "Anti-Money Laundering (AML) Act",
+    "summary": "Financial institutions must report any suspicious transactions over $10,000.",
+    "keywords": ["aml", "anti-money laundering", "suspicious transaction", "report", "$10,000"],
+    "risk_level": "High"
+  },
+  {
+    "id": 3,
+    "title": "Fair Claims Processing Act",
+    "summary": "Insurers must acknowledge and act promptly upon communications with respect to claims.",
+    "keywords": ["fair claims", "promptly", "communications", "acknowledge"],
+    "risk_level": "Medium"
+  },
+  {
+    "id": 4,
+    "title": "Consumer Data Deletion Request",
+    "summary": "Consumers have the right to request the deletion of their personal data.",
+    "keywords": ["data deletion", "right to be forgotten", "erase data", "consumer request"],
+    "risk_level": "Medium"
+  },
+  {
+    "id": 5,
+    "title": "Unambiguous Contract Terms",
+    "summary": "Terms and conditions in all contracts must be clear, concise, and easy to understand.",
+    "keywords": ["unambiguous", "clear terms", "plain language", "contract"],
+    "risk_level": "Low"
+  }
+]
