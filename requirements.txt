@@ -8,3 +8,4 @@ spacy
 streamlit
 plotly
 streamlit-cookies-manager
+PyMuPDF
