@@ -7,6 +7,10 @@ BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
 FRONTEND_DIR="$BASE_DIR"
  
 echo "Starting EXLPlain application..."
+
+echo "Installing dependencies..."
+pip install -r "$BASE_DIR/requirements.txt"
+
 echo "Starting Frontend..."
 cd "$FRONTEND_DIR"
 streamlit run app.py &
